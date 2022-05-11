@@ -14,11 +14,11 @@ h1,h4{
     color: aliceblue;
 }
 h1{
-    font-size: 7rem;
+    font-size: 5rem;
     padding-top: 2rem;
 }
 h4{
-    font-size: 5rem;
+    font-size: 4rem;
     padding-top: 1rem;
 }
 
@@ -33,8 +33,8 @@ h4{
 }
 .button{
     margin: 0 2rem 0;
-    width: 20%;
-    height: 50%;
+    width: 17%;
+    height: 30%;
 }
 .button:first-child{
     background-color: rgb(192, 54, 3);
