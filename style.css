@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+div.container{
+    background-image: url(./tree.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+h1,h4{
+
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    font-size: 7rem;
+    padding-top: 2rem;
+}
+h4{
+    font-size: 5rem;
+    padding-top: 1rem;
+}
+
+.buttons{
+    text-align: center;
+    width: 50vw;
+    height: 2rem;
+    position: fixed;
+    top: 95vh;
+    left: 50vw;
+    transform: translate(-50%, -50%)
+}
+.button{
+    margin: 0 2rem 0;
+    width: 20%;
+    height: 50%;
+}
+.button:first-child{
+    background-color: rgb(192, 54, 3);
+}
